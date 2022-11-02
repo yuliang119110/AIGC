@@ -10,7 +10,7 @@
 <table>
     <tr>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1114993116711411713/CotPNPM8_400x400.png"></th>
-      <th><img width="50px" src="https://yt3.ggpht.com/ytc/AMLnZuxFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s88-c-k-c0x00ffffff-no-rj"></th>
+      <th><img width="50px" src="https://yt3.ggpht.com/ytc/AMLnZu-xFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s88-c-k-c0x00ffffff-no-rj"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1578475268183715841/POMU2pX1_400x400.jpg"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1033610447151226880/N2d6idh4_400x400.jpg"></th>
       <th><img width="50px" src="https://yt3.ggpht.com/DX0Th72ri6WiqkM5adM2HAL4Ng0ZMQbqIPoyAn2E84Dw2gX6sHKkSMSGYI3VtS4IVwkPiFUqDA=s88-c-k-c0x00ffffff-no-rj"></th>
