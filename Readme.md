@@ -10,10 +10,9 @@
 <table>
     <tr>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1114993116711411713/CotPNPM8_400x400.png"></th>
-      <th><img width="50px" src="https://yt3.ggpht.com/ytc/AMLnZu-xFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s88-c-k-c0x00ffffff-no-rj"></th>
+      <th><img width="50px" src="https://yt3.ggpht.com/ytc/AMLnZuxFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s88-c-k-c0x00ffffff-no-rj"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1578475268183715841/POMU2pX1_400x400.jpg"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1033610447151226880/N2d6idh4_400x400.jpg"></th>
-  
       <th><img width="50px" src="https://yt3.ggpht.com/DX0Th72ri6WiqkM5adM2HAL4Ng0ZMQbqIPoyAn2E84Dw2gX6sHKkSMSGYI3VtS4IVwkPiFUqDA=s88-c-k-c0x00ffffff-no-rj"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1587470734439612417/9f-OpkUS_400x400.jpg"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1579633591838965760/CoruCGZr_400x400.jpg"></th>
@@ -26,7 +25,7 @@
       <td align="center"><a href="https://www.youtube.com/c/DotCSV">Dot CSV</a></td>
       <td align="center"><a href="https://twitter.com/StableDiffusion">Stable Diffusion</a></td>
       <td align="center"><a href="https://twitter.com/cutecatgif">AI動物画像生成くん</a></td>
-      <td align="center"><a href="https://www.youtube.com/user/thosesixfaces">ThoseSixFaces</a></td>
+      <td align="center"><a href="https://www.youtube.com/user/thosesixfaces">SixFaces</a></td>
       <td align="center"><a href="https://twitter.com/DefpointAI">Defpoint</a></td>
       <td align="center"><a href="https://twitter.com/Panda_AI_art">Panda AI</a></td>
       <td align="center"><a href="https://twitter.com/hsAIart">harry styles ai art</a></td>
