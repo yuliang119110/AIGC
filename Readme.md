@@ -20,7 +20,6 @@
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1467169151462563843/1qrmt8GC_400x400.jpg"></th>
       <th><img width="50px" src="https://pbs.twimg.com/profile_images/1434348867349192709/5_ZT_5FC_400x400.jpg"></th>
       <th><img width="50px" src="https://yt3.ggpht.com/PMF6y_kKd55I4jJ-J4LJ73GbLerdc4ii6wKcsKXQ6j5A_u1-sb8RfX6Q__KlDvF_aDMvuhyR=s88-c-k-c0x00ffffff-no-rj"></th>
-    
     </tr>
     <tr>
       <td align="center"><a href="https://www.justinpinkney.com/">Justin Pinkney</a></td>
@@ -33,7 +32,6 @@
       <td align="center"><a href="https://twitter.com/hsAIart">harry styles ai art</a></td>
       <td align="center"><a href="https://twitter.com/ao_illust">アオまるAIも使える絵師</a></td>
       <td align="center"><a href="https://www.youtube.com/channel/UCNMK68M-Al4hRUcew07TnUA/videos">The Dor Brothers</a></td>
-
     </tr>
   </table>
 <br/>
