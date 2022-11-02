@@ -9,32 +9,31 @@
 
 <table>
     <tr>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/hadoop.jpg"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/hive.jpg"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/spark.jpg"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/storm.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/flink.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/hbase.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/kafka.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/zookeeper.jpg"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/flume.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/sqoop.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/azkaban.png"></th>
-      <th><img width="50px" src="https://gitee.com/heibaiying/BigData-Notes/raw/master/pictures/scala.jpg"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1114993116711411713/CotPNPM8_400x400.png"></th>
+      <th><img width="50px" src="https://yt3.ggpht.com/ytc/AMLnZu-xFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s88-c-k-c0x00ffffff-no-rj"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1578475268183715841/POMU2pX1_400x400.jpg"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1033610447151226880/N2d6idh4_400x400.jpg"></th>
+  
+      <th><img width="50px" src="https://yt3.ggpht.com/DX0Th72ri6WiqkM5adM2HAL4Ng0ZMQbqIPoyAn2E84Dw2gX6sHKkSMSGYI3VtS4IVwkPiFUqDA=s88-c-k-c0x00ffffff-no-rj"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1587470734439612417/9f-OpkUS_400x400.jpg"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1579633591838965760/CoruCGZr_400x400.jpg"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1467169151462563843/1qrmt8GC_400x400.jpg"></th>
+      <th><img width="50px" src="https://pbs.twimg.com/profile_images/1434348867349192709/5_ZT_5FC_400x400.jpg"></th>
+      <th><img width="50px" src="https://yt3.ggpht.com/PMF6y_kKd55I4jJ-J4LJ73GbLerdc4ii6wKcsKXQ6j5A_u1-sb8RfX6Q__KlDvF_aDMvuhyR=s88-c-k-c0x00ffffff-no-rj"></th>
+    
     </tr>
     <tr>
-      <td align="center"><a href="#一hadoop">Hadoop</a></td>
-      <td align="center"><a href="#二hive">Hive</a></td>
-      <td align="center"><a href="#三spark">Spark</a></td>
-      <td align="center"><a href="#四storm">Storm</a></td>
-      <td align="center"><a href="#五flink">Flink</a></td>
-      <td align="center"><a href="#六hbase">HBase</a></td>
-      <td align="center"><a href="#七kafka">Kafka</a></td>
-      <td align="center"><a href="#八zookeeper">Zookeeper</a></td>
-      <td align="center"><a href="#九flume">Flume</a></td>
-      <td align="center"><a href="#十sqoop">Sqoop</a></td>
-      <td align="center"><a href="#十一azkaban">Azkaban</a></td>
-      <td align="center"><a href="#十二scala">Scala</a></td>
+      <td align="center"><a href="https://www.justinpinkney.com/">Justin Pinkney</a></td>
+      <td align="center"><a href="https://www.youtube.com/c/DotCSV">Dot CSV</a></td>
+      <td align="center"><a href="https://twitter.com/StableDiffusion">Stable Diffusion</a></td>
+      <td align="center"><a href="https://twitter.com/cutecatgif">AI動物画像生成くん</a></td>
+      <td align="center"><a href="https://www.youtube.com/user/thosesixfaces">ThoseSixFaces</a></td>
+      <td align="center"><a href="https://twitter.com/DefpointAI">Defpoint</a></td>
+      <td align="center"><a href="https://twitter.com/Panda_AI_art">Panda AI</a></td>
+      <td align="center"><a href="https://twitter.com/hsAIart">harry styles ai art</a></td>
+      <td align="center"><a href="https://twitter.com/ao_illust">アオまるAIも使える絵師</a></td>
+      <td align="center"><a href="https://www.youtube.com/channel/UCNMK68M-Al4hRUcew07TnUA/videos">The Dor Brothers</a></td>
+
     </tr>
   </table>
 <br/>
@@ -114,7 +113,16 @@
             <td align="center"><a href="https://dream.ai/create">wombo.art</a></td> 
             <td align="center">免费</td> 
         </tr>
+          <tr>
+            <td align="center"><a href="https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-0">多人在线协作版</a></td> 
+            <td align="center">新用户免费20次</td> 
+            <td align="center"><a href="https://github.com/lkwq007/stablediffusion-infinity">画面“脑补”代码</a></td> 
+            <td align="center">排队申请</td> 
+            <td align="center"><a href="https://lexica.art/?continueFlag=7ae9b80c05f2dacf7596693366d17cbf">欧洲神话风prompt</a></td> 
+            <td align="center">免费</td> 
+        </tr>
     </table>
+    
     
  </div>
 
